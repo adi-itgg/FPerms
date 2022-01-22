@@ -1,0 +1,4 @@
+default: {}
+groups:
+  examplegroup: {}
+users: {}

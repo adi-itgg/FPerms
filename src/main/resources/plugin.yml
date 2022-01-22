@@ -1,0 +1,14 @@
+name: FPerms
+version: 1.0.0
+description: Simple a Permissions Plugin
+api-version: 1.13
+author: PhantomXCraft
+prefix: FPerms
+main: me.phantomx.fperm.FPerms
+commands:
+  fperms:
+    aliases: [fp]
+    description: Main FPerms commands.
+    permission: fperms.admin
+  ping:
+    description: Ping connection player
